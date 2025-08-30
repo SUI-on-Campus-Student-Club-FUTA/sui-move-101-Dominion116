@@ -1,10 +1,8 @@
 [package]
 name = "workshop_projects"
-edition = "2024"
-version = "0.0.1"
 
 [dependencies]
 Sui = { git = "https://github.com/MystenLabs/sui.git", subdir = "crates/sui-framework/packages/sui-framework", rev = "framework/testnet" }
 
 [addresses]
-workshop_project = "0x0"
+workshop_projects = "0x0"
