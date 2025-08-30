@@ -1,4 +1,4 @@
-module workshop_project::test{
-    use workshop_project::todo_list::{TodoList, new};
+module workshop_projects::test{
+    use workshop_projects::todo_list::{TodoList, new};
 
 }
